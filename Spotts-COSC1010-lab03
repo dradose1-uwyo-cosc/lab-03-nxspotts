@@ -3,7 +3,7 @@
 # September 26, 2024
 # Lab 03 
 # Lab Section: 12
-# Sources, people worked with, help given to: 
+# Sources, people worked with, help given to: N/A
 
 
 
@@ -56,7 +56,7 @@ print(list)
 
 #Remove Texas using its value, print the list
 list.remove("Texas")
-
+print(list)
 print("Part Three----------------------------------------------------------------------")
 #Temporarily sort your list, print it both sorted and unsorted 
 print(sorted(list))
